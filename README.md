@@ -1,2 +1,2 @@
-# Network-AndroidApplication
- Network Applications (Retrofit...)
+# BroadcastReceiver
+sms yakalama çalışmasıdır.
